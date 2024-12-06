@@ -1,0 +1,14 @@
+{
+  "name": "Java Codespace",
+  "image": "mcr.microsoft.com/devcontainers/java:0-11",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-debug"
+      ]
+    }
+  }
+}
